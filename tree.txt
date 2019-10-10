@@ -1,0 +1,596 @@
+卷 影视 的文件夹 PATH 列表
+卷序列号为 0A9A-D661
+D:.
+│  jumeng-auditcar.iml
+│  pom.xml
+│  tree.txt
+│  
+├─.idea
+│  │  compiler.xml
+│  │  encodings.xml
+│  │  misc.xml
+│  │  modules.xml
+│  │  workspace.xml
+│  │  
+│  ├─inspectionProfiles
+│  └─libraries
+│          Maven__antlr_antlr_2_7_7.xml
+│          Maven__ch_qos_logback_logback_classic_1_2_3.xml
+│          Maven__ch_qos_logback_logback_core_1_2_3.xml
+│          Maven__commons_codec_commons_codec_1_11.xml
+│          Maven__commons_httpclient_commons_httpclient_3_1.xml
+│          Maven__commons_logging_commons_logging_1_0_4.xml
+│          Maven__com_alibaba_druid_1_1_18.xml
+│          Maven__com_alibaba_druid_spring_boot_starter_1_1_18.xml
+│          Maven__com_beust_jcommander_1_48.xml
+│          Maven__com_fasterxml_classmate_1_4_0.xml
+│          Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml
+│          Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_8.xml
+│          Maven__com_fasterxml_jackson_core_jackson_core_2_9_9.xml
+│          Maven__com_fasterxml_jackson_core_jackson_databind_2_9_9_3.xml
+│          Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_9.xml
+│          Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_9.xml
+│          Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_9.xml
+│          Maven__com_google_guava_guava_20_0.xml
+│          Maven__com_google_zxing_core_3_2_1.xml
+│          Maven__com_google_zxing_javase_3_2_1.xml
+│          Maven__com_jayway_jsonpath_json_path_2_4_0.xml
+│          Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml
+│          Maven__com_zaxxer_HikariCP_3_2_0.xml
+│          Maven__io_jsonwebtoken_jjwt_0_9_1.xml
+│          Maven__io_lettuce_lettuce_core_5_1_8_RELEASE.xml
+│          Maven__io_netty_netty_buffer_4_1_39_Final.xml
+│          Maven__io_netty_netty_codec_4_1_39_Final.xml
+│          Maven__io_netty_netty_common_4_1_39_Final.xml
+│          Maven__io_netty_netty_handler_4_1_39_Final.xml
+│          Maven__io_netty_netty_resolver_4_1_39_Final.xml
+│          Maven__io_netty_netty_transport_4_1_39_Final.xml
+│          Maven__io_projectreactor_reactor_core_3_2_12_RELEASE.xml
+│          Maven__io_springfox_springfox_core_2_8_0.xml
+│          Maven__io_springfox_springfox_schema_2_8_0.xml
+│          Maven__io_springfox_springfox_spi_2_8_0.xml
+│          Maven__io_springfox_springfox_spring_web_2_8_0.xml
+│          Maven__io_springfox_springfox_swagger2_2_8_0.xml
+│          Maven__io_springfox_springfox_swagger_common_2_8_0.xml
+│          Maven__io_springfox_springfox_swagger_ui_2_8_0.xml
+│          Maven__io_swagger_swagger_annotations_1_5_14.xml
+│          Maven__io_swagger_swagger_models_1_5_14.xml
+│          Maven__javax_activation_javax_activation_api_1_2_0.xml
+│          Maven__javax_annotation_javax_annotation_api_1_3_2.xml
+│          Maven__javax_persistence_javax_persistence_api_2_2.xml
+│          Maven__javax_servlet_javax_servlet_api_4_0_1.xml
+│          Maven__javax_transaction_javax_transaction_api_1_3.xml
+│          Maven__javax_validation_validation_api_2_0_1_Final.xml
+│          Maven__javax_xml_bind_jaxb_api_2_3_1.xml
+│          Maven__junit_junit_4_12.xml
+│          Maven__log4j_log4j_1_2_17.xml
+│          Maven__mysql_mysql_connector_java_5_1_39.xml
+│          Maven__net_bytebuddy_byte_buddy_1_9_16.xml
+│          Maven__net_bytebuddy_byte_buddy_agent_1_9_16.xml
+│          Maven__net_minidev_accessors_smart_1_2.xml
+│          Maven__net_minidev_json_smart_2_3.xml
+│          Maven__org_apache_commons_commons_lang3_3_3_2.xml
+│          Maven__org_apache_commons_commons_pool2_2_6_2.xml
+│          Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml
+│          Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml
+│          Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_24.xml
+│          Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_24.xml
+│          Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_24.xml
+│          Maven__org_aspectj_aspectjweaver_1_9_4.xml
+│          Maven__org_assertj_assertj_core_3_11_1.xml
+│          Maven__org_dom4j_dom4j_2_1_1.xml
+│          Maven__org_hamcrest_hamcrest_core_1_3.xml
+│          Maven__org_hamcrest_hamcrest_library_1_3.xml
+│          Maven__org_hibernate_common_hibernate_commons_annotations_5_0_4_Final.xml
+│          Maven__org_hibernate_hibernate_core_5_3_11_Final.xml
+│          Maven__org_hibernate_validator_hibernate_validator_6_0_17_Final.xml
+│          Maven__org_javassist_javassist_3_23_2_GA.xml
+│          Maven__org_jboss_jandex_2_0_5_Final.xml
+│          Maven__org_jboss_logging_jboss_logging_3_3_3_Final.xml
+│          Maven__org_mapstruct_mapstruct_1_2_0_Final.xml
+│          Maven__org_mockito_mockito_core_2_23_4.xml
+│          Maven__org_objenesis_objenesis_2_6.xml
+│          Maven__org_ow2_asm_asm_5_0_4.xml
+│          Maven__org_projectlombok_lombok_1_18_8.xml
+│          Maven__org_reactivestreams_reactive_streams_1_0_3.xml
+│          Maven__org_reflections_reflections_0_9_11.xml
+│          Maven__org_skyscreamer_jsonassert_1_5_0.xml
+│          Maven__org_slf4j_jcl_over_slf4j_1_7_28.xml
+│          Maven__org_slf4j_jul_to_slf4j_1_7_28.xml
+│          Maven__org_slf4j_slf4j_api_1_7_28.xml
+│          Maven__org_slf4j_slf4j_log4j12_1_7_28.xml
+│          Maven__org_springframework_boot_spring_boot_2_1_8_RELEASE.xml
+│          Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_8_RELEASE.xml
+│          Maven__org_springframework_boot_spring_boot_devtools_2_1_8_RELEASE.xml
+│          Maven__org_springframework_boot_spring_boot_starter_2_1_8_RELEASE.xml
+│          Maven__org_springframework_boot_spring_boot_starter_aop_2_1_8_RELEASE.xml
+│          Maven__org_springframework_boot_spring_boot_starter_cache_2_1_8_RELEASE.xml
+│          Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_1_8_RELEASE.xml
+│          Maven__org_springframework_boot_spring_boot_starter_data_redis_2_1_8_RELEASE.xml
+│          Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_8_RELEASE.xml
+│          Maven__org_springframework_boot_spring_boot_starter_json_2_1_8_RELEASE.xml
+│          Maven__org_springframework_boot_spring_boot_starter_log4j_1_3_8_RELEASE.xml
+│          Maven__org_springframework_boot_spring_boot_starter_logging_2_1_8_RELEASE.xml
+│          Maven__org_springframework_boot_spring_boot_starter_security_2_1_8_RELEASE.xml
+│          Maven__org_springframework_boot_spring_boot_starter_test_2_1_8_RELEASE.xml
+│          Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_8_RELEASE.xml
+│          Maven__org_springframework_boot_spring_boot_starter_web_2_1_8_RELEASE.xml
+│          Maven__org_springframework_boot_spring_boot_test_2_1_8_RELEASE.xml
+│          Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_8_RELEASE.xml
+│          Maven__org_springframework_data_spring_data_commons_2_1_10_RELEASE.xml
+│          Maven__org_springframework_data_spring_data_jpa_2_1_10_RELEASE.xml
+│          Maven__org_springframework_data_spring_data_keyvalue_2_1_10_RELEASE.xml
+│          Maven__org_springframework_data_spring_data_redis_2_1_10_RELEASE.xml
+│          Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml
+│          Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml
+│          Maven__org_springframework_security_spring_security_config_5_1_6_RELEASE.xml
+│          Maven__org_springframework_security_spring_security_core_5_1_6_RELEASE.xml
+│          Maven__org_springframework_security_spring_security_web_5_1_6_RELEASE.xml
+│          Maven__org_springframework_spring_aop_5_1_9_RELEASE.xml
+│          Maven__org_springframework_spring_aspects_5_1_9_RELEASE.xml
+│          Maven__org_springframework_spring_beans_5_1_9_RELEASE.xml
+│          Maven__org_springframework_spring_context_5_1_9_RELEASE.xml
+│          Maven__org_springframework_spring_context_support_5_1_9_RELEASE.xml
+│          Maven__org_springframework_spring_core_5_1_9_RELEASE.xml
+│          Maven__org_springframework_spring_expression_5_1_9_RELEASE.xml
+│          Maven__org_springframework_spring_jcl_5_1_9_RELEASE.xml
+│          Maven__org_springframework_spring_jdbc_5_1_9_RELEASE.xml
+│          Maven__org_springframework_spring_orm_5_1_9_RELEASE.xml
+│          Maven__org_springframework_spring_oxm_5_1_9_RELEASE.xml
+│          Maven__org_springframework_spring_test_5_1_9_RELEASE.xml
+│          Maven__org_springframework_spring_tx_5_1_9_RELEASE.xml
+│          Maven__org_springframework_spring_webmvc_5_1_9_RELEASE.xml
+│          Maven__org_springframework_spring_web_5_1_9_RELEASE.xml
+│          Maven__org_xmlunit_xmlunit_core_2_6_3.xml
+│          Maven__org_yaml_snakeyaml_1_23.xml
+│          
+├─auditcar-common
+│  │  auditcar-common.iml
+│  │  pom.xml
+│  │  
+│  ├─src
+│  │  └─main
+│  │      ├─java
+│  │      │  └─com
+│  │      │      └─jumeng
+│  │      │          └─auditcarcommon
+│  │      │                  CommonUtil.java
+│  │      │                  DateStrUtil.java
+│  │      │                  HttpTookit.java
+│  │      │                  JsonUtil.java
+│  │      │                  MoneyFormatUtils.java
+│  │      │                  ReflectionUtil.java
+│  │      │                  RequestParamUtils.java
+│  │      │                  SensitiveWordUtil.java
+│  │      │                  SerialNumberUtil.java
+│  │      │                  SnowflakeIdWorker.java
+│  │      │                  StrUtils.java
+│  │      │                  ZxingUtil.java
+│  │      │                  
+│  │      └─resources
+│  └─target
+│      ├─classes
+│      │  └─com
+│      │      └─jumeng
+│      │          └─auditcarcommon
+│      │                  CommonUtil.class
+│      │                  DateStrUtil.class
+│      │                  HttpTookit.class
+│      │                  JsonUtil.class
+│      │                  MoneyFormatUtils.class
+│      │                  ReflectionUtil.class
+│      │                  RequestParamUtils.class
+│      │                  SensitiveWordUtil.class
+│      │                  SerialNumberUtil.class
+│      │                  SnowflakeIdWorker.class
+│      │                  StrUtils.class
+│      │                  ZxingUtil.class
+│      │                  
+│      └─generated-sources
+│          └─annotations
+├─auditcar-domain
+│  │  auditcar-domain.iml
+│  │  pom.xml
+│  │  
+│  ├─src
+│  │  └─main
+│  │      ├─java
+│  │      │  └─com
+│  │      │      └─jumeng
+│  │      │          └─auditcardomain
+│  │      │              │  Admin.java
+│  │      │              │  AdminRole.java
+│  │      │              │  BaseEntity.java
+│  │      │              │  FunctionMenu.java
+│  │      │              │  Member.java
+│  │      │              │  Merchant.java
+│  │      │              │  MerchantRole.java
+│  │      │              │  PayConfigAli.java
+│  │      │              │  PayConfigBest.java
+│  │      │              │  PayConfigWechat.java
+│  │      │              │  ShopInfo.java
+│  │      │              │  
+│  │      │              ├─dao
+│  │      │              │      AdminDao.java
+│  │      │              │      AdminRoleDao.java
+│  │      │              │      FunctionMenuDao.java
+│  │      │              │      MemberDao.java
+│  │      │              │      MerchantDao.java
+│  │      │              │      MerchantRoleDao.java
+│  │      │              │      PayConfigAliDao.java
+│  │      │              │      PayConfigBestDao.java
+│  │      │              │      PayConfigWechatDao.java
+│  │      │              │      ShopInfoDao.java
+│  │      │              │      
+│  │      │              ├─exception
+│  │      │              │      AdminErrorType.java
+│  │      │              │      AuthErrorType.java
+│  │      │              │      BaseException.java
+│  │      │              │      ErrorType.java
+│  │      │              │      SystemErrorType.java
+│  │      │              │      UserErrorType.java
+│  │      │              │      
+│  │      │              ├─form
+│  │      │              │  │  BaseForm.java
+│  │      │              │  │  
+│  │      │              │  └─param
+│  │      │              │      │  AdminParam.java
+│  │      │              │      │  AdminRoleParam.java
+│  │      │              │      │  FunctionMenuParam.java
+│  │      │              │      │  MemberParam.java
+│  │      │              │      │  MerchantParam.java
+│  │      │              │      │  MerchantRoleParam.java
+│  │      │              │      │  ShopInfoParam.java
+│  │      │              │      │  
+│  │      │              │      └─nopage
+│  │      │              │              MerchantRoleNoPageParam.java
+│  │      │              │              PayConfigAliNoPageParam.java
+│  │      │              │              PayConfigBestNoPageParam.java
+│  │      │              │              PayConfigWechatNoPageParam.java
+│  │      │              │              ShopInfoNoPageParam.java
+│  │      │              │              
+│  │      │              ├─reposiotry
+│  │      │              │  │  BaseRepository.java
+│  │      │              │  │  BaseRepositoryFactoryBean.java
+│  │      │              │  │  BaseRepositoryImpl.java
+│  │      │              │  │  
+│  │      │              │  └─support
+│  │      │              │          DataQueryObject.java
+│  │      │              │          DataQueryObjectPage.java
+│  │      │              │          DataQueryObjectSort.java
+│  │      │              │          QueryBetween.java
+│  │      │              │          QueryField.java
+│  │      │              │          QueryType.java
+│  │      │              │          
+│  │      │              ├─service
+│  │      │              │  │  AdminRoleService.java
+│  │      │              │  │  AdminService.java
+│  │      │              │  │  FunctionMenuService.java
+│  │      │              │  │  MemberService.java
+│  │      │              │  │  MerchantRoleService.java
+│  │      │              │  │  MerchantService.java
+│  │      │              │  │  PayConfigAliService.java
+│  │      │              │  │  PayConfigBestService.java
+│  │      │              │  │  PayConfigWechatService.java
+│  │      │              │  │  ShopInfoService.java
+│  │      │              │  │  
+│  │      │              │  └─impl
+│  │      │              │          AdminRoleServiceImpl.java
+│  │      │              │          AdminServiceImpl.java
+│  │      │              │          FunctionMenuServiceImpl.java
+│  │      │              │          MemberServiceImpl.java
+│  │      │              │          MerchantRoleServiceImpl.java
+│  │      │              │          MerchantServiceImpl.java
+│  │      │              │          PayConfigAliServiceImpl.java
+│  │      │              │          PayConfigBestServiceImpl.java
+│  │      │              │          PayConfigWechatServiceImpl.java
+│  │      │              │          ShopInfoServiceImpl.java
+│  │      │              │          
+│  │      │              └─vo
+│  │      │                      Result.java
+│  │      │                      
+│  │      └─resources
+│  │              lombok.config
+│  │              
+│  └─target
+│      ├─classes
+│      │  │  lombok.config
+│      │  │  
+│      │  └─com
+│      │      └─jumeng
+│      │          └─auditcardomain
+│      │              │  Admin$1.class
+│      │              │  Admin$2.class
+│      │              │  Admin.class
+│      │              │  AdminRole.class
+│      │              │  BaseEntity.class
+│      │              │  FunctionMenu.class
+│      │              │  Member.class
+│      │              │  Merchant$1.class
+│      │              │  Merchant$2.class
+│      │              │  Merchant.class
+│      │              │  MerchantRole.class
+│      │              │  PayConfigAli.class
+│      │              │  PayConfigBest.class
+│      │              │  PayConfigWechat.class
+│      │              │  ShopInfo.class
+│      │              │  
+│      │              ├─dao
+│      │              │      AdminDao.class
+│      │              │      AdminRoleDao.class
+│      │              │      FunctionMenuDao.class
+│      │              │      MemberDao.class
+│      │              │      MerchantDao.class
+│      │              │      MerchantRoleDao.class
+│      │              │      PayConfigAliDao.class
+│      │              │      PayConfigBestDao.class
+│      │              │      PayConfigWechatDao.class
+│      │              │      ShopInfoDao.class
+│      │              │      
+│      │              ├─exception
+│      │              │      AdminErrorType.class
+│      │              │      AuthErrorType.class
+│      │              │      BaseException.class
+│      │              │      ErrorType.class
+│      │              │      SystemErrorType.class
+│      │              │      UserErrorType.class
+│      │              │      
+│      │              ├─form
+│      │              │  │  BaseForm.class
+│      │              │  │  
+│      │              │  └─param
+│      │              │      │  AdminParam.class
+│      │              │      │  AdminRoleParam.class
+│      │              │      │  FunctionMenuParam.class
+│      │              │      │  MemberParam.class
+│      │              │      │  MerchantParam.class
+│      │              │      │  MerchantRoleParam.class
+│      │              │      │  ShopInfoParam.class
+│      │              │      │  
+│      │              │      └─nopage
+│      │              │              MerchantRoleNoPageParam.class
+│      │              │              PayConfigAliNoPageParam.class
+│      │              │              PayConfigBestNoPageParam.class
+│      │              │              PayConfigWechatNoPageParam.class
+│      │              │              ShopInfoNoPageParam.class
+│      │              │              
+│      │              ├─reposiotry
+│      │              │  │  BaseRepository.class
+│      │              │  │  BaseRepositoryFactoryBean$BaseRepositoryFactory.class
+│      │              │  │  BaseRepositoryFactoryBean.class
+│      │              │  │  BaseRepositoryImpl$1.class
+│      │              │  │  BaseRepositoryImpl$2.class
+│      │              │  │  BaseRepositoryImpl$3.class
+│      │              │  │  BaseRepositoryImpl$4.class
+│      │              │  │  BaseRepositoryImpl.class
+│      │              │  │  
+│      │              │  └─support
+│      │              │          DataQueryObject.class
+│      │              │          DataQueryObjectPage.class
+│      │              │          DataQueryObjectSort.class
+│      │              │          QueryBetween.class
+│      │              │          QueryField.class
+│      │              │          QueryType.class
+│      │              │          
+│      │              ├─service
+│      │              │  │  AdminRoleService.class
+│      │              │  │  AdminService.class
+│      │              │  │  FunctionMenuService.class
+│      │              │  │  MemberService.class
+│      │              │  │  MerchantRoleService.class
+│      │              │  │  MerchantService.class
+│      │              │  │  PayConfigAliService.class
+│      │              │  │  PayConfigBestService.class
+│      │              │  │  PayConfigWechatService.class
+│      │              │  │  ShopInfoService.class
+│      │              │  │  
+│      │              │  └─impl
+│      │              │          AdminRoleServiceImpl.class
+│      │              │          AdminServiceImpl.class
+│      │              │          FunctionMenuServiceImpl.class
+│      │              │          MemberServiceImpl.class
+│      │              │          MerchantRoleServiceImpl.class
+│      │              │          MerchantServiceImpl.class
+│      │              │          PayConfigAliServiceImpl.class
+│      │              │          PayConfigBestServiceImpl.class
+│      │              │          PayConfigWechatServiceImpl.class
+│      │              │          ShopInfoServiceImpl.class
+│      │              │          
+│      │              └─vo
+│      │                      Result.class
+│      │                      
+│      └─generated-sources
+│          └─annotations
+└─auditcar-web
+    │  auditcar-web.iml
+    │  pom.xml
+    │  
+    ├─src
+    │  ├─main
+    │  │  ├─java
+    │  │  │  └─com
+    │  │  │      └─jumeng
+    │  │  │          └─auditcarweb
+    │  │  │              │  AuditcarWebApplication.java
+    │  │  │              │  
+    │  │  │              └─web
+    │  │  │                  ├─aspect
+    │  │  │                  │      WebLogAspect.java
+    │  │  │                  │      
+    │  │  │                  ├─auditor
+    │  │  │                  │      SpringSecurityAuditorAware.java
+    │  │  │                  │      
+    │  │  │                  ├─config
+    │  │  │                  │      RedisConfig.java
+    │  │  │                  │      SwaggerConfig.java
+    │  │  │                  │      WebMvcConfig.java
+    │  │  │                  │      WebSecurityConfig.java
+    │  │  │                  │      
+    │  │  │                  ├─controller
+    │  │  │                  │  ├─admin
+    │  │  │                  │  │      AdminAuthController.java
+    │  │  │                  │  │      AdminBaseController.java
+    │  │  │                  │  │      AdminController.java
+    │  │  │                  │  │      AdminFunctionMenuController.java
+    │  │  │                  │  │      AdminMemberController.java
+    │  │  │                  │  │      AdminMerchantController.java
+    │  │  │                  │  │      AdminMerchantRoleController.java
+    │  │  │                  │  │      AdminPayConfigAliController.java
+    │  │  │                  │  │      AdminPayConfigBestController.java
+    │  │  │                  │  │      AdminPayConfigWechatController.java
+    │  │  │                  │  │      AdminRoleController.java
+    │  │  │                  │  │      AdminShopInfoController.java
+    │  │  │                  │  │      
+    │  │  │                  │  ├─merchant
+    │  │  │                  │  │      MerchantAuthController.java
+    │  │  │                  │  │      
+    │  │  │                  │  └─notify
+    │  │  │                  │          AliPayNofityController.java
+    │  │  │                  │          
+    │  │  │                  ├─exception
+    │  │  │                  │      DefaultGlobalExceptionHandlerAdvice.java
+    │  │  │                  │      GlobalExceptionHandlerAdvice.java
+    │  │  │                  │      
+    │  │  │                  ├─form
+    │  │  │                  │      AdminForm.java
+    │  │  │                  │      AdminRoleForm.java
+    │  │  │                  │      FunctionMenuForm.java
+    │  │  │                  │      MemeberForm.java
+    │  │  │                  │      MerchantForm.java
+    │  │  │                  │      MerchantRoleForm.java
+    │  │  │                  │      PayConfigAliForm.java
+    │  │  │                  │      PayConfigBestForm.java
+    │  │  │                  │      PayConfigWechatForm.java
+    │  │  │                  │      ShopInfoForm.java
+    │  │  │                  │      
+    │  │  │                  ├─param
+    │  │  │                  │      LoginParam.java
+    │  │  │                  │      
+    │  │  │                  ├─security
+    │  │  │                  │      JwtAuthenticationTokenFilter.java
+    │  │  │                  │      JWTService.java
+    │  │  │                  │      JWTUserDetails.java
+    │  │  │                  │      MyAccessDeniedHandler.java
+    │  │  │                  │      MyAuthenticationEntryPoint.java
+    │  │  │                  │      TokenAdminDetailsService.java
+    │  │  │                  │      TokenMerchantDetailsService.java
+    │  │  │                  │      
+    │  │  │                  ├─service
+    │  │  │                  │  │  AuthService.java
+    │  │  │                  │  │  
+    │  │  │                  │  └─impl
+    │  │  │                  │          AuthServiceImpl.java
+    │  │  │                  │          
+    │  │  │                  └─utils
+    │  │  │                          RedisUtil.java
+    │  │  │                          SecurityUtils.java
+    │  │  │                          WebUtils.java
+    │  │  │                          
+    │  │  └─resources
+    │  │          application-dev.yml
+    │  │          application-prod.yml
+    │  │          application.yml
+    │  │          banner.txt
+    │  │          log4j.properties
+    │  │          lombok.config
+    │  │          
+    │  └─test
+    │      └─java
+    │          └─com
+    │              └─jumeng
+    │                  └─auditcarweb
+    │                          AuditcarWebApplicationTests.java
+    │                          
+    └─target
+        ├─classes
+        │  │  application-dev.yml
+        │  │  application-prod.yml
+        │  │  application.yml
+        │  │  banner.txt
+        │  │  log4j.properties
+        │  │  lombok.config
+        │  │  
+        │  └─com
+        │      └─jumeng
+        │          └─auditcarweb
+        │              │  AuditcarWebApplication.class
+        │              │  
+        │              └─web
+        │                  ├─aspect
+        │                  │      WebLogAspect.class
+        │                  │      
+        │                  ├─auditor
+        │                  │      SpringSecurityAuditorAware.class
+        │                  │      
+        │                  ├─config
+        │                  │      RedisConfig.class
+        │                  │      SwaggerConfig.class
+        │                  │      WebMvcConfig.class
+        │                  │      WebSecurityConfig.class
+        │                  │      
+        │                  ├─controller
+        │                  │  ├─admin
+        │                  │  │      AdminAuthController.class
+        │                  │  │      AdminBaseController.class
+        │                  │  │      AdminController.class
+        │                  │  │      AdminFunctionMenuController.class
+        │                  │  │      AdminMemberController.class
+        │                  │  │      AdminMerchantController.class
+        │                  │  │      AdminMerchantRoleController.class
+        │                  │  │      AdminPayConfigBestController.class
+        │                  │  │      AdminPayConfigWechatController.class
+        │                  │  │      AdminRoleController.class
+        │                  │  │      AdminShopInfoController.class
+        │                  │  │      
+        │                  │  └─merchant
+        │                  │          MerchantAuthController.class
+        │                  │          
+        │                  ├─exception
+        │                  │      DefaultGlobalExceptionHandlerAdvice.class
+        │                  │      GlobalExceptionHandlerAdvice.class
+        │                  │      
+        │                  ├─form
+        │                  │      AdminForm.class
+        │                  │      AdminRoleForm.class
+        │                  │      FunctionMenuForm.class
+        │                  │      MemeberForm.class
+        │                  │      MerchantForm.class
+        │                  │      MerchantRoleForm.class
+        │                  │      PayConfigAliForm.class
+        │                  │      PayConfigBestForm.class
+        │                  │      PayConfigWechatForm.class
+        │                  │      ShopInfoForm.class
+        │                  │      
+        │                  ├─param
+        │                  │      LoginParam.class
+        │                  │      
+        │                  ├─security
+        │                  │      JwtAuthenticationTokenFilter.class
+        │                  │      JWTService.class
+        │                  │      JWTUserDetails.class
+        │                  │      MyAccessDeniedHandler.class
+        │                  │      MyAuthenticationEntryPoint.class
+        │                  │      TokenAdminDetailsService.class
+        │                  │      TokenMerchantDetailsService.class
+        │                  │      
+        │                  ├─service
+        │                  │  │  AuthService.class
+        │                  │  │  
+        │                  │  └─impl
+        │                  │          AuthServiceImpl.class
+        │                  │          
+        │                  └─utils
+        │                          RedisUtil.class
+        │                          SecurityUtils.class
+        │                          WebUtils.class
+        │                          
+        ├─generated-sources
+        │  └─annotations
+        ├─generated-test-sources
+        │  └─test-annotations
+        └─test-classes
+            └─com
+                └─jumeng
+                    └─auditcarweb
+                            AuditcarWebApplicationTests.class
+                            

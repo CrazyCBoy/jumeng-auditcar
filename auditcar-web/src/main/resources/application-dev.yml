@@ -1,0 +1,31 @@
+server:
+  port: 8082
+spring:
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/jm_auditcar?useUnicode=true&characterEncoding=utf-8&serverTimezone=UTC
+    username: root
+    password: root
+    druid:
+      # 配置DruidStatViewServlet
+      stat-view-servlet:
+        url-pattern: "/druid/*"
+        # IP白名单(没有配置或者为空，则允许所有访问)
+        allow: 127.0.0.1
+        #  禁用HTML页面上的“Reset All”功能
+        reset-enable: false
+        # 登录名
+        login-username: admin
+        # 登录密码
+        login-password: 123456
+        enabled: true
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+  redis:
+    host: 127.0.0.1
+    port: 6379
+    password: jumeng2019
+    database: 0
+swagger2:
+  enable: true

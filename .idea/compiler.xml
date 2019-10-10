@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="auditcar-domain" />
+        <module name="auditcar-web" />
+        <module name="auditcar-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="auditcar-common" target="1.8" />
+      <module name="auditcar-domain" target="1.8" />
+      <module name="auditcar-web" target="1.8" />
+      <module name="jumeng-auditcar" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="auditcar-common" options="-parameters" />
+      <module name="auditcar-domain" options="-parameters" />
+      <module name="auditcar-web" options="-parameters" />
+      <module name="jumeng-auditcar" options="" />
+    </option>
+  </component>
+</project>

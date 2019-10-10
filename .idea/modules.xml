@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/auditcar-common/auditcar-common.iml" filepath="$PROJECT_DIR$/auditcar-common/auditcar-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auditcar-domain/auditcar-domain.iml" filepath="$PROJECT_DIR$/auditcar-domain/auditcar-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auditcar-web/auditcar-web.iml" filepath="$PROJECT_DIR$/auditcar-web/auditcar-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jumeng-auditcar.iml" filepath="$PROJECT_DIR$/jumeng-auditcar.iml" />
+    </modules>
+  </component>
+</project>
