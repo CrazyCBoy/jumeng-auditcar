@@ -27,7 +27,7 @@ public class SwaggerConfig {
                 .title("聚梦科技-审车平台")
                 .description("审车系统")
                 .contact(new Contact("聚梦科技", "" , "463307408@qq.com"))
-                .version("1.0")
+                .version("99.0")
                 .build();
     }
 
@@ -59,7 +59,8 @@ public class SwaggerConfig {
                 .build()
                 .securitySchemes(securitySchemes())
                 .securityContexts(securityContexts());
-    }*/
+    }
+    */
 
     private List<ApiKey> securitySchemes() {
         List<ApiKey> list = new ArrayList<>();

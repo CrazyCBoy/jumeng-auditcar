@@ -70,6 +70,10 @@
             <groupId>com.jumeng</groupId>
             <artifactId>auditcar-common</artifactId>
         </dependency>
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>javax.servlet-api</artifactId>
+        </dependency>
     </dependencies>
 
 </project>

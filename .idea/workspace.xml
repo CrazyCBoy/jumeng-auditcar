@@ -2,305 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2bafa9b-db80-4447-b761-2eb7d11ea73d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-common/auditcar-common.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-common/src/main/java/com/jumeng/auditcar/common/CommonUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-common/src/main/java/com/jumeng/auditcar/common/DateStrUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-common/src/main/java/com/jumeng/auditcar/common/HttpTookit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-common/src/main/java/com/jumeng/auditcar/common/JsonUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-common/src/main/java/com/jumeng/auditcar/common/MoneyFormatUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-common/src/main/java/com/jumeng/auditcar/common/QuerySendDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-common/src/main/java/com/jumeng/auditcar/common/ReflectionUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-common/src/main/java/com/jumeng/auditcar/common/RequestParamUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-common/src/main/java/com/jumeng/auditcar/common/SensitiveWordUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-common/src/main/java/com/jumeng/auditcar/common/SerialNumberUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-common/src/main/java/com/jumeng/auditcar/common/SnowflakeIdWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-common/src/main/java/com/jumeng/auditcar/common/StrUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-common/src/main/java/com/jumeng/auditcar/common/ZxingUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-common/target/classes/com/jumeng/auditcar/common/CommonUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-common/target/classes/com/jumeng/auditcar/common/DateStrUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-common/target/classes/com/jumeng/auditcar/common/HttpTookit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-common/target/classes/com/jumeng/auditcar/common/JsonUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-common/target/classes/com/jumeng/auditcar/common/MoneyFormatUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-common/target/classes/com/jumeng/auditcar/common/QuerySendDetails.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-common/target/classes/com/jumeng/auditcar/common/ReflectionUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-common/target/classes/com/jumeng/auditcar/common/RequestParamUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-common/target/classes/com/jumeng/auditcar/common/SensitiveWordUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-common/target/classes/com/jumeng/auditcar/common/SerialNumberUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-common/target/classes/com/jumeng/auditcar/common/SnowflakeIdWorker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-common/target/classes/com/jumeng/auditcar/common/StrUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-common/target/classes/com/jumeng/auditcar/common/ZxingUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/auditcar-domain.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/AdminRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/CarInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/Merchant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/MerchantRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/OrderInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/PayInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/StationInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/UserInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/dao/AdminDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/dao/AdminRoleDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/dao/CarInfoDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/dao/MerchantDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/dao/MerchantRoleDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/dao/OrderInfoDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/dao/PayInfoDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/dao/StationInfoDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/exception/AdminErrorType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/exception/AuthErrorType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/exception/BaseException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/exception/ErrorType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/exception/SystemErrorType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/exception/UserErrorType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/form/BaseForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/form/param/AdminParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/form/param/AdminRoleParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/form/param/CarInfoParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/form/param/FunctionMenuParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/form/param/MerchantParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/form/param/MerchantRoleParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/form/param/OrderInfoParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/form/param/PayInfoParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/form/param/StationInfoParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/form/param/UserParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/form/param/nopage/MerchantRoleNoPageParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/form/param/nopage/PayConfigAliNoPageParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/form/param/nopage/PayConfigBestNoPageParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/form/param/nopage/PayConfigWechatNoPageParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/form/param/nopage/StationInfoNoPageParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/reposiotry/BaseRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/reposiotry/BaseRepositoryFactoryBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/reposiotry/BaseRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/reposiotry/support/DataQueryObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/reposiotry/support/DataQueryObjectPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/reposiotry/support/DataQueryObjectSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/reposiotry/support/QueryBetween.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/reposiotry/support/QueryField.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/reposiotry/support/QueryType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/service/AdminRoleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/service/AdminService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/service/CarInfoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/service/MerchantRoleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/service/MerchantService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/service/OrderInfoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/service/PayInfoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/service/StationInfoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/service/impl/AdminRoleServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/service/impl/AdminServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/service/impl/CarInfoServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/service/impl/MerchantRoleServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/service/impl/MerchantServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/service/impl/OrderInfoServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/service/impl/PayInfoServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/service/impl/StationInfoServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/vo/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/src/main/resources/lombok.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/META-INF/auditcar-domain.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/Admin$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/Admin$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/Admin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/AdminRole.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/BaseEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/CarInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/Merchant$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/Merchant$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/Merchant.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/MerchantRole.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/OrderInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/PayInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/StationInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/UserInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/dao/AdminDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/dao/AdminRoleDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/dao/CarInfoDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/dao/MerchantDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/dao/MerchantRoleDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/dao/OrderInfoDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/dao/PayInfoDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/dao/StationInfoDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/dao/UserDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/exception/AdminErrorType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/exception/AuthErrorType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/exception/BaseException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/exception/ErrorType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/exception/SystemErrorType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/exception/UserErrorType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/form/BaseForm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/form/param/AdminParam.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/form/param/AdminRoleParam.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/form/param/CarInfoParam.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/form/param/FunctionMenuParam.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/form/param/MerchantParam.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/form/param/MerchantRoleParam.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/form/param/OrderInfoParam.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/form/param/PayInfoParam.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/form/param/StationInfoParam.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/form/param/UserParam.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/form/param/nopage/MerchantRoleNoPageParam.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/form/param/nopage/PayConfigAliNoPageParam.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/form/param/nopage/PayConfigBestNoPageParam.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/form/param/nopage/PayConfigWechatNoPageParam.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/form/param/nopage/StationInfoNoPageParam.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/reposiotry/BaseRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/reposiotry/BaseRepositoryFactoryBean$BaseRepositoryFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/reposiotry/BaseRepositoryFactoryBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/reposiotry/BaseRepositoryImpl$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/reposiotry/BaseRepositoryImpl$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/reposiotry/BaseRepositoryImpl$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/reposiotry/BaseRepositoryImpl$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/reposiotry/BaseRepositoryImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/reposiotry/support/DataQueryObject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/reposiotry/support/DataQueryObjectPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/reposiotry/support/DataQueryObjectSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/reposiotry/support/QueryBetween.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/reposiotry/support/QueryField.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/reposiotry/support/QueryType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/service/AdminRoleService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/service/AdminService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/service/CarInfoService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/service/MerchantRoleService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/service/MerchantService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/service/OrderInfoService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/service/PayInfoService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/service/StationInfoService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/service/impl/AdminRoleServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/service/impl/AdminServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/service/impl/CarInfoServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/service/impl/MerchantRoleServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/service/impl/MerchantServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/service/impl/OrderInfoServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/service/impl/PayInfoServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/service/impl/StationInfoServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/vo/Result.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/lombok.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/auditcar-web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/AuditcarWebApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/aspect/WebLogAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/auditor/SpringSecurityAuditorAware.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/config/RedisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/config/SwaggerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/config/WebMvcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/config/WebSecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/controller/admin/AdminAuthController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/controller/admin/AdminBaseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/controller/admin/AdminController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/controller/admin/AdminMerchantController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/controller/admin/AdminMerchantRoleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/controller/admin/AdminRoleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/controller/carSys/AdminStationInfoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/controller/carSys/AdminUserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/controller/carSys/CarInfoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/controller/carSys/OrderInfoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/controller/carSys/PayInfoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/controller/merchant/MerchantAuthController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/exception/DefaultGlobalExceptionHandlerAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/exception/GlobalExceptionHandlerAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/form/AdminForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/form/AdminRoleForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/form/CarInfoForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/form/MerchantForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/form/MerchantRoleForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/form/OrderInfoForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/form/PayInfoForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/form/StationInfoForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/form/UserForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/param/LoginParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/security/JWTService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/security/JWTUserDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/security/JwtAuthenticationTokenFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/security/MyAccessDeniedHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/security/MyAuthenticationEntryPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/security/TokenAdminDetailsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/security/TokenMerchantDetailsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/service/AuthService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/service/impl/AuthServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/utils/RedisUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/utils/SecurityUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/utils/WebUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/resources/application-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/resources/application-prod.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/resources/banner.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/resources/lombok.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/src/test/java/com/jumeng/auditcarweb/AuditcarWebApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/META-INF/auditcar-web.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/application-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/application-prod.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/banner.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/AuditcarWebApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/aspect/WebLogAspect.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/auditor/SpringSecurityAuditorAware.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/config/RedisConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/config/SwaggerConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/config/WebMvcConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/config/WebSecurityConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/controller/admin/AdminAuthController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/controller/admin/AdminBaseController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/controller/admin/AdminController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/controller/admin/AdminMerchantController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/controller/admin/AdminMerchantRoleController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/controller/admin/AdminRoleController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/controller/carSys/AdminStationInfoController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/controller/carSys/AdminUserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/controller/carSys/CarInfoController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/controller/carSys/OrderInfoController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/controller/carSys/PayInfoController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/controller/merchant/MerchantAuthController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/exception/DefaultGlobalExceptionHandlerAdvice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/exception/GlobalExceptionHandlerAdvice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/form/AdminForm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/form/AdminRoleForm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/form/CarInfoForm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/form/MerchantForm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/form/MerchantRoleForm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/form/OrderInfoForm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/form/PayInfoForm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/form/StationInfoForm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/form/UserForm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/param/LoginParam.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/security/JWTService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/security/JWTUserDetails.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/security/JwtAuthenticationTokenFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/security/MyAccessDeniedHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/security/MyAuthenticationEntryPoint.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/security/TokenAdminDetailsService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/security/TokenMerchantDetailsService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/service/AuthService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/service/impl/AuthServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/utils/RedisUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/utils/SecurityUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/utils/WebUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/classes/lombok.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auditcar-web/target/test-classes/com/jumeng/auditcarweb/AuditcarWebApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jumeng-auditcar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_61.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auditcar-frontend/auditcar-frontend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/form/UserLoginForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditcar-common/auditcar-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/auditcar-common/auditcar-common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditcar-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/auditcar-common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditcar-common/src/main/java/com/jumeng/auditcar/common/QuerySendDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/auditcar-common/src/main/java/com/jumeng/auditcar/common/QuerySendDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditcar-common/target/classes/com/jumeng/auditcar/common/QuerySendDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/auditcar-common/target/classes/com/jumeng/auditcar/common/QuerySendDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditcar-domain/auditcar-domain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/auditcar-domain/auditcar-domain.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditcar-domain/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/auditcar-domain/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/auditcar-domain/target/classes/com/jumeng/auditcar/domain/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditcar-web/auditcar-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/auditcar-web/auditcar-web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/config/SwaggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/controller/carSys/AdminUserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/controller/carSys/AdminUserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditcar-web/target/classes/META-INF/auditcar-web.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/config/SwaggerConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/config/SwaggerConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/controller/carSys/AdminUserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/auditcar-web/target/classes/com/jumeng/auditcar/web/controller/carSys/AdminUserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/auditcar-common/target/" />
     <ignored path="$PROJECT_DIR$/auditcar-domain/target/" />
     <ignored path="$PROJECT_DIR$/auditcar-web/target/" />
+    <ignored path="$PROJECT_DIR$/auditcar-frontend/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -315,26 +46,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/controller/carSys/OrderInfoController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="58" column="69" selection-start-line="58" selection-start-column="69" selection-end-line="58" selection-end-column="69" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/form/OrderInfoForm.java">
+        <entry file="file://$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/AuditcarWebApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="160">
+              <caret line="16" column="57" lean-forward="true" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -345,6 +61,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Gradle Kotlin DSL Build Script" />
+        <option value="Vue Single File Component" />
         <option value="Class" />
       </list>
     </option>
@@ -371,6 +89,9 @@
       <find>审车点ID错误</find>
       <find>订单信息实体</find>
       <find>10fd27b0-8c84-4032-b964-80910f84dff0</find>
+      <find>SaveAndFlush</find>
+      <find>Repository</find>
+      <find>XXXX文化路任寨北街</find>
     </findStrings>
     <replaceStrings>
       <replace>用户</replace>
@@ -387,14 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/OrderInfo.java" />
-        <option value="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/CarInfoEntity.java" />
-        <option value="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/controller/admin/AdminMemberController.java" />
-        <option value="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/form/MemeberForm.java" />
-        <option value="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/controller/admin/AdminShopInfoController.java" />
-        <option value="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/form/ShopInfoForm.java" />
-        <option value="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/dao/StationInfoDao.java" />
-        <option value="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/controller/admin/AdminUserController.java" />
         <option value="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/dao/PayInfoDao.java" />
         <option value="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/controller/PayInfoController.java" />
         <option value="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/controller/admin/AdminStationInfoController.java" />
@@ -419,14 +132,9 @@
         <option value="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/form/param/PayInfoParam.java" />
         <option value="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/form/OrderInfoForm.java" />
         <option value="$PROJECT_DIR$/auditcar-web/src/main/resources/application-dev.yml" />
-        <option value="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/config/SwaggerConfig.java" />
         <option value="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/dao/UserDao.java" />
         <option value="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/UserInfo.java" />
         <option value="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/service/UserService.java" />
-        <option value="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/controller/carSys/AdminUserController.java" />
-        <option value="$PROJECT_DIR$/auditcar-common/pom.xml" />
-        <option value="$PROJECT_DIR$/auditcar-common/src/main/java/com/jumeng/auditcar/common/QuerySendDetails.java" />
-        <option value="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/service/impl/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/dao/OrderInfoDao.java" />
         <option value="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/service/OrderInfoService.java" />
         <option value="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/service/impl/OrderInfoServiceImpl.java" />
@@ -438,6 +146,19 @@
         <option value="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/controller/carSys/PayInfoController.java" />
         <option value="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/service/impl/PayInfoServiceImpl.java" />
         <option value="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/form/PayInfoForm.java" />
+        <option value="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/form/UserLoginForm.java" />
+        <option value="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/controller/carSys/AdminUserController.java" />
+        <option value="$PROJECT_DIR$/auditcar-common/pom.xml" />
+        <option value="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/config/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/auditcar-common/src/main/java/com/jumeng/auditcar/common/QuerySendDetails.java" />
+        <option value="$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/auditcar-frontend/pom.xml" />
+        <option value="$PROJECT_DIR$/auditcar-frontend/src/router/index.js" />
+        <option value="$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/controller/carSys/VueController.java" />
+        <option value="$PROJECT_DIR$/auditcar-frontend/src/api/login.js" />
+        <option value="$PROJECT_DIR$/auditcar-frontend/src/utils/request.js" />
+        <option value="$PROJECT_DIR$/auditcar-frontend/src/components/HelloUser.vue" />
       </list>
     </option>
   </component>
@@ -453,32 +174,20 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="jumeng-auditcar" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="auditcar-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="jumeng-auditcar" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="auditcar-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="jumeng-auditcar" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="960" />
-    <option name="width" value="960" />
+    <option name="x" value="589" />
+    <option name="width" value="1331" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -488,6 +197,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -499,7 +209,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -510,32 +219,37 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/auditcar-frontend/src/api" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\IdeaProjects2\jumeng-auditcar" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects2\jumeng-auditcar\auditcar-frontend\src\api" />
+      <recent name="D:\IdeaProjects2\jumeng-auditcar\auditcar-frontend\src\utils" />
+      <recent name="D:\IdeaProjects2\jumeng-auditcar\auditcar-frontend" />
+      <recent name="D:\IdeaProjects2\jumeng-auditcar\auditcar-web\src\main\resources" />
+      <recent name="D:\IdeaProjects2\jumeng-auditcar\auditcar-web\src\main\java\com\jumeng\auditcarweb" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.jumeng" />
       <recent name="AAAA" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.jumeng.auditcar.web.form" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects2\jumeng-auditcar" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.jumeng.auditcar.domain" />
       <recent name="com.jumeng.auditcardomain.vo" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\IdeaProjects2\jumeng-auditcar\auditcar-web\src\main\resources" />
-      <recent name="D:\IdeaProjects2\jumeng-auditcar\auditcar-web\src\main\java\com\jumeng\auditcarweb" />
-      <recent name="D:\IdeaProjects2\jumeng-auditcar\auditcar-domain\src\main\resources" />
-      <recent name="D:\IdeaProjects2\jumeng-auditcar\auditcar-domain\src\main\java\com\jumeng\auditcardomain" />
-      <recent name="D:\IdeaProjects2\jumeng-auditcar\auditcar-common\src\main\java\com\jumeng\auditcarcommon" />
+    <key name="OPEN_URL_DIALOG">
+      <recent name="https://github.com/wasabi18001029521/meteorological-interface.git" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.jumeng.auditcar.web.form" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -556,7 +270,7 @@
     </option>
     <option name="contentProportion" value="0.13474026" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.AuditcarWebApplication">
     <configuration name="AuditcarWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="auditcar-web" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.jumeng.AuditcarWebApplication" />
@@ -565,6 +279,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/auditcar-frontend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -582,12 +311,22 @@
       <workItem from="1570536618987" duration="2551000" />
       <workItem from="1570539310887" duration="986000" />
       <workItem from="1570582886558" duration="25766000" />
-      <workItem from="1570669051165" duration="23896000" />
+      <workItem from="1570669051165" duration="25815000" />
+      <workItem from="1570756856322" duration="12640000" />
+      <workItem from="1570842144427" duration="7768000" />
     </task>
+    <task id="LOCAL-00001" summary="审车系统基础增删改">
+      <created>1570700112316</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570700112316</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57578000" />
+    <option name="totallyTimeSpent" value="79905000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -602,7 +341,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22014925" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20362474" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -611,25 +350,25 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.35714287" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.47943723" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.53896105" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3564464" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3347779" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3629469" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32900432" />
-      <window_info anchor="bottom" id="Run Dashboard" order="7" weight="0.37012988" />
+      <window_info anchor="bottom" id="Run Dashboard" order="7" visible="true" weight="0.37703142" />
       <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32900432" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.43445286" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.5194805" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.51895994" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
       <window_info anchor="bottom" id="Version Control" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.22867803" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.36777776" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" />
@@ -677,154 +416,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="审车系统基础增删改" />
+    <option name="LAST_COMMIT_MESSAGE" value="审车系统基础增删改" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/auditcar-common/src/main/java/com/jumeng/auditcar/common/SensitiveWordUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/dao/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/AuditcarWebApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.9.RELEASE/spring-webmvc-5.1.9.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="951" selection-start-line="951" selection-end-line="951" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.9.RELEASE/spring-webmvc-5.1.9.RELEASE-sources.jar!/org/springframework/web/servlet/FrameworkServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="883" selection-start-line="883" selection-end-line="883" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.24/tomcat-embed-websocket-9.0.24-sources.jar!/org/apache/tomcat/websocket/server/WsFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/druid/1.1.18/druid-1.1.18-sources.jar!/com/alibaba/druid/support/http/WebStatFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="185" selection-start-line="185" selection-end-line="185" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.24/tomcat-embed-core-9.0.24-sources.jar!/org/apache/catalina/core/ApplicationFilterChain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="167" selection-start-line="167" selection-end-line="167" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.1.6.RELEASE/spring-security-web-5.1.6.RELEASE-sources.jar!/org/springframework/security/web/access/ExceptionTranslationFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="156" selection-start-line="156" selection-end-line="156" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.1.6.RELEASE/spring-security-web-5.1.6.RELEASE-sources.jar!/org/springframework/security/web/session/SessionManagementFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="137" selection-start-line="137" selection-end-line="137" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.1.6.RELEASE/spring-security-web-5.1.6.RELEASE-sources.jar!/org/springframework/security/web/authentication/AnonymousAuthenticationFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="111" selection-start-line="111" selection-end-line="111" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.1.6.RELEASE/spring-security-web-5.1.6.RELEASE-sources.jar!/org/springframework/security/web/servletapi/SecurityContextHolderAwareRequestFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="171" selection-start-line="171" selection-end-line="171" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.1.6.RELEASE/spring-security-web-5.1.6.RELEASE-sources.jar!/org/springframework/security/web/access/intercept/FilterSecurityInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="91" selection-start-line="91" selection-end-line="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.1.6.RELEASE/spring-security-web-5.1.6.RELEASE-sources.jar!/org/springframework/security/web/savedrequest/RequestCacheAwareFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/security/JwtAuthenticationTokenFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.1.6.RELEASE/spring-security-web-5.1.6.RELEASE-sources.jar!/org/springframework/security/web/authentication/logout/LogoutFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="116" selection-start-line="116" selection-end-line="116" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.1.6.RELEASE/spring-security-web-5.1.6.RELEASE-sources.jar!/org/springframework/security/web/header/HeaderWriterFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="76" selection-start-line="76" selection-end-line="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.1.6.RELEASE/spring-security-web-5.1.6.RELEASE-sources.jar!/org/springframework/security/web/context/SecurityContextPersistenceFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="121" selection-start-line="121" selection-end-line="121" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.1.6.RELEASE/spring-security-web-5.1.6.RELEASE-sources.jar!/org/springframework/security/web/context/request/async/WebAsyncManagerIntegrationFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.9.RELEASE/spring-web-5.1.9.RELEASE-sources.jar!/org/springframework/web/filter/OncePerRequestFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="125" lean-forward="true" selection-start-line="125" selection-end-line="125" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.1.6.RELEASE/spring-security-web-5.1.6.RELEASE-sources.jar!/org/springframework/security/web/FilterChainProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="185" column="8" selection-start-line="185" selection-start-column="8" selection-end-line="185" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.9.RELEASE/spring-webmvc-5.1.9.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
@@ -846,44 +442,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/auditcar-common/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="723">
-          <caret line="84" column="21" selection-start-line="84" selection-start-column="21" selection-end-line="84" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/BaseEntity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="686">
           <caret line="64" column="19" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auditcar-common/src/main/java/com/jumeng/auditcar/common/QuerySendDetails.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="26" column="72" selection-start-line="26" selection-start-column="72" selection-end-line="26" selection-end-column="72" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/service/impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="64" column="5" lean-forward="true" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -934,16 +496,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/controller/carSys/AdminUserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="47" column="2" lean-forward="true" selection-start-line="47" selection-start-column="2" selection-end-line="58" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1014,13 +566,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.9.RELEASE/spring-web-5.1.9.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="189" selection-start-line="189" selection-end-line="189" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/form/PayInfoForm.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -1028,37 +573,244 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/controller/carSys/PayInfoController.java">
+    <entry file="file://$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/form/OrderInfoForm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="40" column="24" lean-forward="true" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+        <state relative-caret-position="208">
+          <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/form/UserLoginForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/form/param/UserParam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/CarInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/service/impl/CarInfoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.9.RELEASE/spring-web-5.1.9.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="189" selection-start-line="189" selection-end-line="189" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/config/SwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auditcar-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1359">
+          <caret line="85" column="20" lean-forward="true" selection-start-line="85" selection-start-column="20" selection-end-line="85" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/form/UserForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="26" column="35" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auditcar-common/src/main/java/com/jumeng/auditcar/common/QuerySendDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/controller/carSys/CarInfoController.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="https://github.com/wasabi18001029521/meteorological-interface.git">
+      <provider selected="true" editor-type-id="httpFileEditor" />
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.1.8.RELEASE/spring-boot-starter-parent-2.1.8.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auditcar-frontend/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auditcar-domain/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
-          <caret line="27" column="52" lean-forward="true" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+          <caret line="50" column="43" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="73" column="23" selection-start-line="73" selection-start-column="23" selection-end-line="73" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auditcar-frontend/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/controller/carSys/PayInfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="31" column="26" selection-start-line="31" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auditcar-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="39" selection-start-line="8" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/controller/carSys/AdminUserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="64" selection-start-line="64" selection-end-line="74" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/controller/carSys/OrderInfoController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="58" column="69" selection-start-line="58" selection-start-column="69" selection-end-line="58" selection-end-column="69" />
+        <state>
+          <caret line="33" column="81" selection-start-line="33" selection-start-column="81" selection-end-line="33" selection-end-column="81" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/form/OrderInfoForm.java">
+    <entry file="file://$PROJECT_DIR$/auditcar-domain/src/main/java/com/jumeng/auditcar/domain/service/impl/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="390">
+          <caret line="51" column="25" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auditcar-frontend/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#140#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auditcar-frontend/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/auditcar/web/controller/carSys/VueController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auditcar-frontend/src/api/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auditcar-frontend/src/utils/request.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="62" lean-forward="true" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auditcar-frontend/src/components/HelloUser.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auditcar-frontend/src/components/HelloWorld.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
+          <folding>
+            <element signature="n#div#0;n#template#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auditcar-web/src/main/java/com/jumeng/AuditcarWebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="16" column="57" lean-forward="true" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
         </state>
       </provider>
     </entry>

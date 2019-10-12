@@ -8,7 +8,19 @@ import com.aliyuncs.exceptions.ClientException;
 import com.aliyuncs.http.MethodType;
 import com.aliyuncs.profile.DefaultProfile;
 
-public class QuerySendDetails {
+import javax.servlet.http.HttpServlet;
+public class QuerySendDetails extends HttpServlet {
+  /*  protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+        String mobile=request.getParameter("mobile");
+        String verifyCode=getPhonemsg(request.getParameter("mobile"));
+        HttpSession session = request.getSession();
+        JSONObject json = new JSONObject();
+        json.put("mobile", mobile);
+        json.put("verifyCode", verifyCode);
+        json.put("createTime", System.currentTimeMillis());
+        request.getSession().setAttribute("verifyCode", json);
+    }
+*/
     public static String getPhonemsg(String mobile) {
         DefaultProfile profile = DefaultProfile.getProfile("cn-hangzhou", "LTAI4Ffxzr9diRAjbdeswk7Z", "aaDMeHc4EXHJQemBBVvgwI3QvacnQP");
         IAcsClient client = new DefaultAcsClient(profile);

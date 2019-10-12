@@ -19,6 +19,7 @@
         <module>auditcar-domain</module>
         <module>auditcar-web</module>
         <module>auditcar-common</module>
+        <module>auditcar-frontend</module>
     </modules>
 
     <properties>

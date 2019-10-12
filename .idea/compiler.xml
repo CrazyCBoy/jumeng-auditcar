@@ -6,16 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="auditcar-domain" />
         <module name="auditcar-web" />
+        <module name="meteorological-interface-frontend" />
+        <module name="auditcar-domain" />
+        <module name="auditcar-frontend" />
         <module name="auditcar-common" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="auditcar-common" target="1.8" />
       <module name="auditcar-domain" target="1.8" />
+      <module name="auditcar-frontend" target="1.8" />
       <module name="auditcar-web" target="1.8" />
       <module name="jumeng-auditcar" target="1.8" />
+      <module name="meteorological-interface-frontend" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

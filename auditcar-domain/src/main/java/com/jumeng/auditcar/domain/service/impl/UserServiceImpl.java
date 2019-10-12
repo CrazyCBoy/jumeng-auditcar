@@ -16,7 +16,7 @@ import org.springframework.stereotype.Service;
  * @Version 1.0
  **/
 @Service
-public class UserServiceImpl implements UserService {
+public class UserServiceImpl implements UserService{
 
     @Autowired
     private UserDao userDao;
@@ -37,7 +37,7 @@ public class UserServiceImpl implements UserService {
     }
 
     @Override
-    public void deleteMember(String memberId) {
+    public void deleteMember(String memberId){
         userDao.findById(memberId).ifPresent(userDao::delete);
     }
 
@@ -56,7 +56,7 @@ public class UserServiceImpl implements UserService {
         if(userdata==null){
             //通过该手机号未查询到该会员信息
             //1.进行短信验证登录
-            //String phonemsg=QuerySendDetails.getPhonemsg(userInfo.getMobile());
+            //  String phonemsg= QuerySendDetails.getPhonemsg(userInfo.getMobile());
             // {"Message":"OK","RequestId":"FCFC0FC9-A25F-4254-BA55-81A251B36F81","BizId":"621819870689354473^0","Code":"OK"}
             return userDao.save(userInfo);
         }
@@ -65,9 +65,11 @@ public class UserServiceImpl implements UserService {
     }
 
     @Override
-    public UserInfo updateUserInfo(UserInfo newInfo) {
+    public UserInfo updateUserInfo(UserInfo userInfo) {
         //saveAndFlush 此方法先根据ID==null 判断是使用 persist方法 还是merge方法 之后
         //会根据数据库中ID是否有记录 来决定 是否要使用insert 还是 update
-        return userDao.saveAndFlush(newInfo);
+        //return userDao.saveAndFlush(newInfo);//性能慢
+
+        return userDao.save(userInfo);
     }
 }
