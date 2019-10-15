@@ -34,6 +34,21 @@ public class SwaggerConfig {
     @Bean
     public Docket createAdminApi() {
         return new Docket(DocumentationType.SWAGGER_2)
+                .groupName("管理后台")
+                .enable(swagger2Enable)
+                .apiInfo(apiInfo())
+                .select()
+                .apis(RequestHandlerSelectors.basePackage("com.jumeng.auditcar.web.controller.admin"))
+                .paths(PathSelectors.regex("^(?!auth).*$"))
+                .paths(PathSelectors.any())
+                .build()
+                .securitySchemes(securitySchemes())
+                .securityContexts(securityContexts());
+    }
+
+    @Bean
+    public Docket createcarSysApi() {
+        return new Docket(DocumentationType.SWAGGER_2)
                 .groupName("审车系统")
                 .enable(swagger2Enable)
                 .apiInfo(apiInfo())
@@ -45,7 +60,6 @@ public class SwaggerConfig {
                 .securitySchemes(securitySchemes())
                 .securityContexts(securityContexts());
     }
-
   /*  @Bean
     public Docket createMerchantApi() {
         return new Docket(DocumentationType.SWAGGER_2)

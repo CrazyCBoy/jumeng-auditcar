@@ -33,7 +33,6 @@ import java.util.Arrays;
 @EnableWebSecurity
 @EnableGlobalMethodSecurity(prePostEnabled=true)
 public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
-
     @Autowired
     private TokenAdminDetailsService tokenAdminDetailsService;
 
@@ -62,6 +61,7 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
         return authenticationManager;
     }
 
+
     @Override
     protected void configure(HttpSecurity http) throws Exception {
         http
@@ -79,7 +79,8 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
                 .antMatchers("/**/auth/login").permitAll()
                 .antMatchers("/notify/**").permitAll()
                 .antMatchers("/static/**").permitAll()
-                .anyRequest().permitAll()    // 剩下所有的验证都需要验证
+                //.anyRequest().permitAll()    // 剩下所有的验证都需要验证
+                .anyRequest().authenticated()
                 .and()
                 .csrf().disable()           // 禁用 Spring Security 自带的跨域处理
                 .sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS);

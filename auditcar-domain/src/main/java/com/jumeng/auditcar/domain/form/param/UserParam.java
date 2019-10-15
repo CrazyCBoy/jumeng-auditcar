@@ -22,7 +22,7 @@ public class UserParam extends DataQueryObjectPage {
     @QueryField(type = QueryType.FULL_LIKE, name = "name")
     private String name;
 
-    @ApiModelProperty(value = "手机号", example = "13555555555")
+    @ApiModelProperty(value = "手机号", example = "18567888818")
     @QueryField(type = QueryType.EQUAL, name = "mobile")
     private String mobile;
 

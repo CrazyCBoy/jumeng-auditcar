@@ -23,7 +23,8 @@
       methods: {
         submitForm() {
           getInfo();
-      /*    this.$refs[login_form].validate(valid => {
+      /*
+          this.$refs[login_form].validate(valid => {
             if (valid) {
               this.$store
                 .dispatch("Login", this.login_form)
@@ -39,7 +40,8 @@
               // console.log("error submit!!");
               return false;
             }
-          });*/
+          });
+          */
         },
 
       }
